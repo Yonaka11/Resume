@@ -1,0 +1,56 @@
+.edu{
+       display: inline-flex;
+       margin-inline-end: 30px;
+ 
+}
+.education{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+}
+h1{ 
+    text-align: center;
+}
+.title{
+
+    text-align: center;
+    font-size: large;
+    
+}
+.intro{
+    text-indent: 30px;
+    text-align: center;
+    
+}
+.chart{
+    background-color: lightgray;
+outline: auto;
+width: 100px;
+float: left;
+height: 600px;
+list-style: none;
+margin: 0;
+padding: 0;
+text-align: center;
+
+
+
+}
+.project{
+    
+    flex-wrap: wrap;
+    float: right;
+    width:  80%;
+    
+}
+.emp{
+    width: 100%;
+}
+.topic{
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
